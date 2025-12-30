@@ -1,1 +1,1 @@
-# HTML_PEPSI_CAN-project
+# PEPSI_CAN-project (HTML & CSS)
